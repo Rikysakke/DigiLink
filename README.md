@@ -361,7 +361,4 @@ CREATE TABLE Fatture (
 );
 ```
 
-## Proposta tema:
-
-http://minia.php.themesbrand.com/index.html
 
